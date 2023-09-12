@@ -1,4 +1,5 @@
 
 import Home from "../screen/dashboard/Home";
+import Splash from "../screen/auth/Splash";
 
-export default Src = () => { Home};
+export {Home,Splash}
